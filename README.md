@@ -1,15 +1,12 @@
+﻿# Alura Books | Front End project created in an [Alura](https://www.alura.com.br/) class.
 
-<p align="center"> <img src="https://imgur.com/Hy6t2jH.png" alt="HTML e CSS: responsividade com mobile-first"> </p>
+
+## Style Guide
+
+All ofthe stylization that was used in the project are located at Figma.
+
+[Project at Figma.](https://www.figma.com/file/sSMbIqKaGBd66Y8roxTk2p/AluraBooks)
 
 <hr>
 
-<p align="center"> <img src="https://github.com/MonicaHillman/alurabooks/blob/aula05/img/Logo.svg" alt="Logo da alura plus"> </p>
-<p align="center">Um site do e-commerce AluraBooks, uma livraria online de livros sobre tecnologia.</p>
-
-## Tecnologias
-* HTML
-* CSS
-* SwiperJS
-
-## Screenshots
-![Screenshot da tela inicial do AluraBooks](https://imgur.com/6GsjQvJ.png)
+![banner](https://user-images.githubusercontent.com/84547699/204942453-a8ae5109-2f5c-47e3-b482-11df77439b63.png)
